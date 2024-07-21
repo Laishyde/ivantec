@@ -5,6 +5,7 @@ on:
     branches:
       - main  # Ou a branch que você utiliza para produção
 
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
